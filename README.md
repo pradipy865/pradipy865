@@ -11,17 +11,10 @@
 
 ---
 
-### 📫 How to reach me:
-- Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- [Resume](your-resume-link)
+
 
 ---
 
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-link)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](your-leetcode-link)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](your-codeforces-link)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&logoColor=white)](your-gfg-link)  
 
 ---
 
